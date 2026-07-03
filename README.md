@@ -13,7 +13,7 @@ The project addresses five key research questions: which model provides the best
 Dataset Used
 The project uses the New Plant Diseases Dataset available on Kaggle, which contains approximately 87,000 RGB images of healthy and diseased crop leaves across 38 distinct classes.
 
-Dataset Link: New Plant Diseases Dataset on Kaggle (https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
+Dataset Link: New Plant Diseases Dataset source investigation on Kaggle (https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
 
 The dataset encompasses multiple crop species including apples, cherries, corn, grapes, oranges, peaches, peppers, potatoes, raspberries, soybeans, squash, strawberries, and tomatoes. Images are split into 80 percent for training and 20 percent for validation, with all images resized to 224x224 pixels for model compatibility.
 
